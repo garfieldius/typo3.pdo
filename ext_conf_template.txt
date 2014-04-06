@@ -1,0 +1,2 @@
+ 	# cat=basic/enable/101; type=boolean; label=Enable Exception:If set, SQL errors will raise a PDOException instead of triggering a PHP Warning
+enableExceptions = 0
